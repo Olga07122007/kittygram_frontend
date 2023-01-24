@@ -1,5 +1,5 @@
 //export const URL = "http://127.0.0.1:8000";
-export const URL = "http://catbot0712.pythonanywhere.com";
+export const URL = "https://catbot0712.pythonanywhere.com";
 
 export const colorsList = [
   "#FFE4C4",
