@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kittygram_frontend/static/css/main.3ee3f68b.css",
+    "main.js": "/kittygram_frontend/static/js/main.4a53aa6a.js",
+    "static/js/787.7f0c0923.chunk.js": "/kittygram_frontend/static/js/787.7f0c0923.chunk.js",
+    "static/media/default-kitty.jpg": "/kittygram_frontend/static/media/default-kitty.8de3ec2fefe82e844764.jpg",
+    "static/media/logo.svg": "/kittygram_frontend/static/media/logo.dc249f71b6f70f82e1ddb71f44ac45e0.svg",
+    "static/media/eye-off.svg": "/kittygram_frontend/static/media/eye-off.06afb992d43e0735c2bf410a70bda521.svg",
+    "index.html": "/kittygram_frontend/index.html",
+    "static/media/edit.svg": "/kittygram_frontend/static/media/edit.d35238b576a9bd843f4720740893bbcb.svg",
+    "static/media/image.svg": "/kittygram_frontend/static/media/image.f85e421a48ea0afdfbf37be232896045.svg",
+    "static/media/logout.svg": "/kittygram_frontend/static/media/logout.0ec024c8b2d77781c89e8e786d45985c.svg",
+    "static/media/trash.svg": "/kittygram_frontend/static/media/trash.aab9892b9fceeaa12d48c84fa18377ae.svg",
+    "static/media/arrow-right.svg": "/kittygram_frontend/static/media/arrow-right.54985a132b2829862c0eaded076a9b90.svg",
+    "static/media/arrow-left.svg": "/kittygram_frontend/static/media/arrow-left.7a26dfbed9ec4030c22f99d3e11b3ea1.svg",
+    "static/media/checkbox.svg": "/kittygram_frontend/static/media/checkbox.05f50141085992466214.svg",
+    "static/media/login.svg": "/kittygram_frontend/static/media/login.ab95088eebf4d84a4c2a4283ce536306.svg",
+    "static/media/plus.svg": "/kittygram_frontend/static/media/plus.6650f2f0b87a571e32505e752cc27bf0.svg",
+    "static/media/eye.svg": "/kittygram_frontend/static/media/eye.ddf9c966da3049e5020f80a8db688915.svg",
+    "static/media/cross.svg": "/kittygram_frontend/static/media/cross.71726485b8c9ec51b43c2ee1d8f0a18f.svg",
+    "static/media/add.svg": "/kittygram_frontend/static/media/add.471912609a43a5fd8fba289f181f252b.svg",
+    "static/media/arrow-down.svg": "/kittygram_frontend/static/media/arrow-down.2b6d07d53eae3786a2f8ecac4a664ede.svg",
+    "static/media/arrow-up.svg": "/kittygram_frontend/static/media/arrow-up.573ac2a25ae7cf685f67febc045177b6.svg",
+    "static/media/left.svg": "/kittygram_frontend/static/media/left.dcd31c9ee01bbcc1e1e255d36461c232.svg",
+    "main.3ee3f68b.css.map": "/kittygram_frontend/static/css/main.3ee3f68b.css.map",
+    "main.4a53aa6a.js.map": "/kittygram_frontend/static/js/main.4a53aa6a.js.map",
+    "787.7f0c0923.chunk.js.map": "/kittygram_frontend/static/js/787.7f0c0923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee3f68b.css",
+    "static/js/main.4a53aa6a.js"
+  ]
+}
